@@ -246,6 +246,12 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.su-link {
+		text-decoration: none;
+		border: none;
+		color: darkgray;
+	}
+
 /* Container */
 
 	.container {
